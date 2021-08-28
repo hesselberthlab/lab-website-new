@@ -11,7 +11,7 @@
   Hesselberth  Lab
 
 
-  | blog
+  | RNA damage and repair
 
 </title>
 <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -37,7 +37,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧬</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/rna-repair/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -131,8 +131,6 @@
           
           
           
-          
-          
           <li class="nav-item ">
               <a class="nav-link" href="/people/">
                 people
@@ -196,56 +194,53 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2>a simple whitespace theme for academics</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">RNA damage and repair</h1>
+    <p class="post-description">How is RNA damage integrated with stress responses?</p>
+  </header>
 
+  <article>
+    <p>RNA repair involves three sequential actvities:</p>
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/distill/">a distill-style blog post</a></h3>
-        <p class="post-meta">May 22, 2021</p>
-        <p>an example of a distill-style blog post and main elements</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/github-metadata/">a post with github metadata</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>a quick run down on accessing github metadata.</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/twitter/">a post with twitter</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>an example of a blog post with twitter</p>
-      </li>
-    
-  </ul>
+<ol>
+  <li>Spontaneous or enzyme-catalyzed RNA cleavage (“damage”).</li>
+  <li>Remodeling of new RNA termini by RNA end modifying enzymes (“healing”).</li>
+  <li>Rejoining of the broken ends by an RNA ligase (“sealing”).</li>
+</ol>
 
-  
-<nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li>
-    
-      
-        <li class="page-item active"><a class="page-link" href="/blog/index.html" title="blog">1</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/2/index.html" title="blog - page 2">2</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/3/index.html" title="blog - page 3">3</a></li>
-      
-    
-    <li class="page-item ">
-      <a class="page-link" href="/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
+<p><img src="/assets/img/rna-repair.svg" /></p>
 
+<p>RNA repair catalyzes rejoining of RNA fragments generated during <a href="#trna-splicing">tRNA splicing</a> and a unique mRNA processing event that regulates the <a href="#unfolded-protein-response">unfolded protein response</a>. There are hints that RNA repair may play a bigger role in gene expression. For example, many proteins of unknown function tend to co-evolve with <a href="https://www.ncbi.nlm.nih.gov/pubmed/27536007">RNA repair genes</a>. And there are suggestions that <a href="https://www.ncbi.nlm.nih.gov/pubmed/27789694">damaged ribosomes can be repaired</a>, presumably to mitigate the cost of building a new ribosome.</p>
 
+<p>We are broadly interested in understanding how cells use RNA repair to remodel the transcriptome.</p>
+
+<h2 id="trna-splicing">tRNA splicing</h2>
+
+<p><img style="float: right;" src="/assets/img/trna-block.svg" /></p>
+
+<p>We exploited a previously developed strategy to bypass the essential function of RNA repair enzymes in budding yeast. Cells that express “pre-spliced” tRNAs are viable in the absence of the tRNA ligase and 2´-phosphotransferase. We are using these cells to understand tRNA processing and translational fidelity.</p>
+
+<h2 id="unfolded-protein-response">Unfolded protein response</h2>
+
+<p><img style="float: right;" src="/assets/img/upr.svg" /></p>
+
+<p>The unfolded protein reponse (UPR) is a conserved pathway that increases the protein folding capacity of the endoplasmic reticulum during periods of protein folding stress. In budding yeast, the UPR is activated by the transmembrane kinase/endoribonucuelase Ire1, which liberates an intron from the <em>HAC1</em> pre-mRNA. Ligation of the exons leads to translation of the Hac1 transcription factor, which moves to the nucleus and upregulates hundreds of stress-reponse genes.</p>
+
+<p>Using the RNA repair mutants, we uncovered new regulatory points during <em>HAC1</em> splicing in the unfolded protein response.</p>
+
+<h2 id="new-substrates-of-rna-repair">New substrates of RNA repair</h2>
+
+<p>We are conducting targeted and genome-wide searches for other targets of RNA repair. Such studies could provide new insights into the role of RNA repair in cellular physiology.</p>
+
+<h2 id="rna-seq-methods-to-study-rna-repair">RNA-seq methods to study RNA repair</h2>
+
+<p>We previously developed methods to capture the <a href="/publication/2010/Schutz">2´,3´-cyclic phosphate</a> and <a href="/publication/2015/Peach">5´-OH</a> products of RNA decay and have used these broadly to study spontaneous and enzyme-catalyzed RNA cleavage.</p>
+
+<h2 id="funding">Funding</h2>
+
+<p>This work is funded by an NIH MIRA grant (<a href="https://projectreporter.nih.gov/project_info_description.cfm?aid=9322528&amp;icde=35801054&amp;ddparam=&amp;ddvalue=&amp;ddsub=&amp;cr=1&amp;csb=default&amp;cs=ASC&amp;pball=">R35 GM119550</a>).</p>
+
+  </article>
 
 </div>
 
