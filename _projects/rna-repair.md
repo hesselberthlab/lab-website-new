@@ -26,8 +26,8 @@ dependencies between RNA end modification and processing could be used for
 new forms of post-transcriptional regulation.
 
 Our research program tackles open questions in RNA repair by combining
-genetics, biochemistry, and bioinformat-ics to explore the causes and
-consequences of RNA damage.  In doing so, we have uncovered new concepts
+genetics, biochemistry, and bioinformatics to explore the causes and
+consequences of RNA damage. In doing so, we have uncovered new concepts
 in post-transcriptional regulation and are uniquely positioned to continue
 to explore the surprising roles of the RNA damage response in biology.
 
@@ -73,9 +73,9 @@ foundation for understanding new couplings between RNA damage and repair.
 
 ### RNA sequencing approaches to study RNA damage repair
 
-We previously developed methods to capture the [2´,3´-cyclic
+We previously developed methods to capture the [2',3'-cyclic
 phosphate](https://pubmed.ncbi.nlm.nih.gov/20075163/) and
-[5´-OH]https://pubmed.ncbi.nlm.nih.gov/26001965/) products of RNA decay
+[5'-OH](https://pubmed.ncbi.nlm.nih.gov/26001965/) products of RNA decay
 and have used these broadly to study spontaneous and enzyme-catalyzed RNA
 cleavage.
 
