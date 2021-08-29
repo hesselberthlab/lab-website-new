@@ -9,10 +9,21 @@ category: research
 
 Like DNA repair systems that surveil and repair genome damage to preserve
 the genetic code, the products of RNA damage are substrates for coupled
-end modification and processing steps. But unlike our deep under-standing
+end modification and processing steps. But unlike our deep understanding
 of the DNA damage response, we are only beginning to learn how RNA damage,
 end modification, and processing are integrated in the RNA damage response
 to orchestrate RNA processing for regulatory control.
+
+<img style="float: right; max-width: 400px" src="/assets/img/rna-repair.svg">
+
+Growing evidence indicates RNA repair activities can be linked together to
+create elegant forms of post-transcriptional control. We and
+others discovered examples of RNA processing by "kinase-mediated decay"
+wherein RNAs with 5'-OH termini are degraded by sequential 5'-OH
+phosphorylation and 5'-3' degradation by a 5'-phosphate-dependent
+exoribonuclease. Given the diversity of RNA repair activities, other
+dependencies between RNA end modification and processing could be used for
+new forms of post-transcriptional regulation.
 
 Our research program tackles open questions in RNA repair by combining
 genetics, biochemistry, and bioinformat-ics to explore the causes and
@@ -20,30 +31,9 @@ consequences of RNA damage.  In doing so, we have uncovered new concepts
 in post-transcriptional regulation and are uniquely positioned to continue
 to explore the surprising roles of the RNA damage response in biology.
 
-RNA repair involves three sequential actvities:
-
-1. Spontaneous or enzyme-catalyzed RNA cleavage ("damage").
-2. Remodeling of new RNA termini by RNA end modifying enzymes ("healing").
-3. Rejoining of the broken ends by an RNA ligase ("sealing").
-
-<img style="float: right;" src="/assets/img/rna-repair.svg">
-
-RNA repair catalyzes rejoining of RNA fragments generated during [tRNA
-splicing](#trna-splicing) and a unique mRNA processing event that
-regulates the [unfolded protein response](#unfolded-protein-response).
-There are hints that RNA repair may play a bigger role in gene expression.
-For example, many proteins of unknown function tend to co-evolve with [RNA
-repair genes](https://www.ncbi.nlm.nih.gov/pubmed/27536007). And there are
-suggestions that [damaged ribosomes can be
-repaired](https://www.ncbi.nlm.nih.gov/pubmed/27789694), presumably to
-mitigate the cost of building a new ribosome.
-
-We are broadly interested in understanding how cells use RNA repair to
-remodel the transcriptome.
-
 ### tRNA splicing
 
-<img style="float: right;" src="/assets/img/trna-block.svg">
+<img style="float: right; max-width: 400px" src="/assets/img/trna-block.svg">
 
 We [recently generated](https://pubmed.ncbi.nlm.nih.gov/29212664/) budding
 yeast cells that lack normally essential compo-nents of RNA repair. RNA
@@ -62,7 +52,7 @@ new studies of eukaryotic RNA repair.
 
 ### Unfolded protein response
 
-<img style="float: right;" src="/assets/img/upr.svg">
+<img style="float: right; max-width: 400px" src="/assets/img/upr.jpg">
 
 We [recently discovered](https://pubmed.ncbi.nlm.nih.gov/30874502/) a
 previously unappreciated layer of post-transcriptional regulation during
@@ -84,9 +74,10 @@ foundation for understanding new couplings between RNA damage and repair.
 ### RNA sequencing approaches to study RNA damage repair
 
 We previously developed methods to capture the [2´,3´-cyclic
-phosphate](/publication/2010/Schutz) and [5´-OH](/publication/2015/Peach)
-products of RNA decay and have used these broadly to study spontaneous and
-enzyme-catalyzed RNA cleavage.
+phosphate](https://pubmed.ncbi.nlm.nih.gov/20075163/) and
+[5´-OH]https://pubmed.ncbi.nlm.nih.gov/26001965/) products of RNA decay
+and have used these broadly to study spontaneous and enzyme-catalyzed RNA
+cleavage.
 
 We are conducting targeted and genome-wide searches for other targets of
 RNA repair. Such studies could provide new insights into the role of RNA
@@ -95,4 +86,5 @@ repair in cellular physiology.
 ## Funding
 
 This work is funded by an NIH MIRA grant ([R35
-GM119550](https://projectreporter.nih.gov/project_info_description.cfm?aid=9322528&icde=35801054&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=)).
+GM119550](https://reporter.nih.gov/search/AWsb18pUaEe-O6bNwTf9KA/project-details/10193187).
+
