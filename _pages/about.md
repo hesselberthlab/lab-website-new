@@ -59,7 +59,7 @@ that correct the negative impacts of mutations that alter pre-mRNA
 splicing.
 
 Finally, we host the [Informatics
-Fellows](https://github.com/rnabioco/)
+Fellows](https://medschool.cuanschutz.edu/rbi/training-and-education/informatics-fellows-program)
 of the RNA Bioscience Initiative, who develop and apply bioinformatic approaches
 with investigators across our campus to enable widespread deployment of
 new RNA analysis technologies.
