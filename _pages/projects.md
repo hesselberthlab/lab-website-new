@@ -5,8 +5,9 @@ permalink: /projects/
 description: research and software projects in the Hesselberth lab
 nav: true
 display_categories: [research, software]
-horizontal: false
+horizontal: true
 ---
+
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
