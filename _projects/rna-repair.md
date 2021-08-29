@@ -52,7 +52,7 @@ new studies of eukaryotic RNA repair.
 
 ### Unfolded protein response
 
-<img style="float: right; max-width: 400px" src="/assets/img/upr.jpg">
+<img style="float: right; max-width: 200px" src="/assets/img/upr.jpg">
 
 We [recently discovered](https://pubmed.ncbi.nlm.nih.gov/30874502/) a
 previously unappreciated layer of post-transcriptional regulation during
