@@ -10,8 +10,8 @@ nav: true
 
 Alternative sources for our publications:
 
-- [Google Scholar](https://scholar.google.com/citations?user=EnOmNEYAAAAJ&hl=en)
-- [NCBI bibliography](https://www.ncbi.nlm.nih.gov/myncbi/jay.hesselberth.1/bibliography/public/)
+- [Google Scholar](https://scholar.google.com/citations?user=EnOmNEYAAAAJ&hl=en){:target="_blank"}
+- [NCBI bibliography](https://www.ncbi.nlm.nih.gov/myncbi/jay.hesselberth.1/bibliography/public/){:target="_blank"}
 
 <div class="publications">
 
