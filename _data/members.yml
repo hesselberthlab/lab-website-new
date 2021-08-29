@@ -53,7 +53,7 @@
   website: https://github.com/kriemo
   scholar: 
   twitter: 
-  description: Faculty lead of the [RNA Bioscience Initiative Inforamtics Fellows](https://medschool.cuanschutz.edu/rbi/training-and-education/informatics-fellows-program)
+  description: Faculty lead of the [RNA Bioscience Initiative Inforamtics Fellows](https://medschool.cuanschutz.edu/rbi/training-and-education/informatics-fellows-program){:target="_blank"}
   
 - name: Rui Fu
   degrees: PhD
@@ -97,7 +97,7 @@
   website: https://github.com/oligomyeggo
   scholar: 
   twitter: 
-  description: RBI Informatics Fellow (joint with [Section of Developmental Biology](https://medschool.cuanschutz.edu/pediatrics/sections/developmental-biology/faculty))
+  description: RBI Informatics Fellow (joint with [Section of Developmental Biology](https://medschool.cuanschutz.edu/pediatrics/sections/developmental-biology/faculty){:target="_blank"})
   
 - name: Kristen Wells
   degrees: PhD
@@ -108,7 +108,7 @@
   website: https://github.com/kwells4
   scholar: 
   twitter: 
-  description: RBI Informatics Fellow (joint with the [Barbara Davis Center for Diabetes](https://medschool.cuanschutz.edu/barbara-davis-center-for-diabetes))
+  description: RBI Informatics Fellow (joint with the [Barbara Davis Center for Diabetes](https://medschool.cuanschutz.edu/barbara-davis-center-for-diabetes){:target="_blank"})
   
 - name: Laura White
   degrees: 
@@ -125,7 +125,7 @@
   degrees: 
   image: catherine.png
   altimage:
-  position: Graduate Student (BSP, MOLB), joint with [Mia Smith, PhD](https://medschool.cuanschutz.edu/barbara-davis-center-for-diabetes/about/faculty/mia-smith)
+  position: Graduate Student (BSP, MOLB), joint with [Mia Smith, PhD](https://medschool.cuanschutz.edu/barbara-davis-center-for-diabetes/about/faculty/mia-smith){:target="_blank"}
   email: catherine.nicholas (at) cuanschutz.edu
   website:
   scholar: 
