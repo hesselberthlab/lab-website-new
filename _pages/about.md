@@ -19,7 +19,7 @@ social: false # includes social icons at the bottom of the page
 **[University of Colorado School of Medicine](https://www.cuanschutz.edu/){:target="_blank"}** <br/>
 
 We are a group of RNA biologists, technology developers, and data analysts on a
-mission to discover fundamental principles of RNA regulation.
+mission to discover and leverage fundamental principles of RNA regulation.
 
 The broad goals of our laboratory are to:
 

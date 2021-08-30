@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Software
-description: Analysis packages for lab and RBI projects
+title: Software development
+description: Software and analyis pipelines
 importance: 1
 category: research
 ---
