@@ -35,7 +35,7 @@ enables many different enzymatic activities to be measured simultaneously.
 
 ### Charting tissue dissmination with molecular tracking devices
 
-<img style="float: right; max-width: 300px" src="/assets/img/tracking-device.jpg">
+<img src="/assets/img/tracking-device.jpg">
 
 The dissemination of molecules through tissue establishes signaling
 gradients that drive complex developmental patterns, enables rapid
