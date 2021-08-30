@@ -4,6 +4,7 @@ permalink: /positions/
 title: positions
 description:
 nav: true
+order: 5
 ---
 
 ## Undergraduates

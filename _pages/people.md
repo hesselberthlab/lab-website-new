@@ -4,6 +4,7 @@ permalink: /people/
 title: people
 description:
 nav: true
+order: 2
 ---
 
 
