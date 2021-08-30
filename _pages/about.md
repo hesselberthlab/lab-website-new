@@ -13,10 +13,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-**[Department of Biochemistry and Molecular
-Genetics](https://medschool.cuanschutz.edu/biochemistry){:target="_blank"} and [RNA Bioscience
-Initiative](https://medschool.cuanschutz.edu/rbi){:target="_blank"}, [University of Colorado
-School of Medicine](https://www.cuanschutz.edu/){:target="_blank"}**
+**[Department of Biochemistry and Molecular Genetics](https://medschool.cuanschutz.edu/biochemistry){:target="_blank"}** <br/>
+**[RNA Bioscience Initiative](https://medschool.cuanschutz.edu/rbi){:target="_blank"}** <br/>
+**[University of Colorado School of Medicine](https://www.cuanschutz.edu/){:target="_blank"}** <br/>
+
+We are a group of RNA biologists, technology developers, and data analysts on a
+mission to discover fundamental principles of RNA regulation and apply them in
+creative ways to improve human health.
 
 The broad goals of our laboratory are to:
 
@@ -28,10 +31,6 @@ expression experiments (funded by an [NIH Transformative
 R01](https://commonfund.nih.gov/tra/recipients))
 - Develop and apply RNA therapeutics that modulate gene expression (funded
 by the [RNA Bioscience Initiative](https://medschool.cuanschutz.edu/rbi))
-
-We are a group of RNA biologists, technology developers, and data analysts on a
-mission to discover fundamental principles of RNA regulation and apply them in
-creative ways to improve human health.
 
 A major effort in the lab focuses on the biology of RNA damage and repair using a
 combination of method development, bioinformatics, genetics, biochemistry, and
