@@ -85,5 +85,5 @@ repair in cellular physiology.
 
 ## Funding
 
-- [NIH/NIGMS MIRA](https://reporter.nih.gov/search/AWsb18pUaEe-O6bNwTf9KA/project-details/10193187))
+- [NIH/NIGMS MIRA](https://reporter.nih.gov/search/AWsb18pUaEe-O6bNwTf9KA/project-details/10193187)
 
