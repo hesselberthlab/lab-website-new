@@ -14,9 +14,9 @@ social: false # includes social icons at the bottom of the page
 ---
 
 **[Department of Biochemistry and Molecular
-Genetics](https://medschool.cuanschutz.edu/biochemistry) and [RNA Bioscience
-Initiative](https://medschool.cuanschutz.edu/rbi), [University of Colorado
-School of Medicine](https://www.cuanschutz.edu/)**
+Genetics](https://medschool.cuanschutz.edu/biochemistry){:target="_blank"} and [RNA Bioscience
+Initiative](https://medschool.cuanschutz.edu/rbi){:target="_blank"}, [University of Colorado
+School of Medicine](https://www.cuanschutz.edu/){:target="_blank"}**
 
 The broad goals of our laboratory are to:
 
