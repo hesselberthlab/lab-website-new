@@ -13,6 +13,7 @@ Alternative sources for our publications:
 
 - [Google Scholar](https://scholar.google.com/citations?user=EnOmNEYAAAAJ&hl=en){:target="_blank"}
 - [NCBI bibliography](https://www.ncbi.nlm.nih.gov/myncbi/jay.hesselberth.1/bibliography/public/){:target="_blank"}
+- [NCBI GEO datasets](https://www.ncbi.nlm.nih.gov/geo/browse/?view=series&submitter=2717){:target="_blank"}
 
 <div class="publications">
 
