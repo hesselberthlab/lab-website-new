@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RNA damage and repair
-description: How is RNA damage integrated with stress responses?
+description: How is RNA repair integrated with stress responses?
 img: /assets/img/rna-repair.png
 importance: 1
 category: research
