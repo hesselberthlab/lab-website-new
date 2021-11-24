@@ -5,3 +5,5 @@
 *-cache
 _site
 *.html
+vendor
+.bundle
