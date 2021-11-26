@@ -12,6 +12,10 @@ collection of software packages are available at:
 - [RNA Bioscience Initiative](https://github.com/rnabioco)
 - [Hesselberth lab](https://github.com/hesselberthlab)
 
+Our public data sets are available:
+
+- [NCBI GEO datasets](https://www.ncbi.nlm.nih.gov/geo/browse/?view=series&submitter=2717){:target="_blank"}
+
 
 ### clustifyr
 
