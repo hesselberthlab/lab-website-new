@@ -17,14 +17,14 @@
   altimage:
   position: Research Scientist
   email: amanda.richer (at) cuanschutz.edu
-  website:
+  website: https://www.linkedin.com/in/amanda-richer-1718b297/
   scholar: 
   twitter: 
   description:
  
 - name: Erika Lasda
   degrees: PhD
-  image: rna-hex.svg 
+  image: erika.jpeg
   altimage:
   position: Research Scientist
   email: erika.lasda (at) cuanschutz.edu
@@ -35,7 +35,7 @@
   
 - name: Maggie Balas 
   degrees: PhD
-  image: rna-hex.svg 
+  image: maggie.jpeg
   altimage:
   position: Research Scientist
   email: maggie.balas (at) cuanschutz.edu
@@ -116,7 +116,7 @@
   altimage:
   position: Graduate Student (MOLB)
   email: laura.k.white (at) cuanschutz.edu
-  website:
+  website: https://www.linkedin.com/in/laurakwhite/
   scholar: 
   twitter: 
   description:
@@ -145,7 +145,7 @@
  
 - name: Saylor Strugar
   degrees: 
-  image: rna-hex.svg
+  image: saylor.jpeg
   altimage:
   position: Professional Research Assistant 
   email: saylor.strugar (at) cuanschutz.edu
