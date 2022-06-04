@@ -53,7 +53,7 @@ tissue, and approaches for quantifying metabolite levels.
 The newest efforts in the lab focus on RNA therapeutics. One is a collaboration
 with clinicians at Colorado Children's Hospital to develop RNA therapies for
 treatment of pediatric neurological diseases. A second area of emphasis is on
-development of mRNA vaccines withthat promote unique immune responses for
+development of mRNA vaccines that promote unique immune responses for
 therapeutic purposes.
 
 Finally, we host the [Informatics
