@@ -50,12 +50,11 @@ in single-cell assays, [tracking of ligands and associated gene expression
 responses](https://pubmed.ncbi.nlm.nih.gov/33843587/) through animal
 tissue, and approaches for quantifying metabolite levels.
 
-The newest effort in the lab is a collaboration with clinicians at
-Colorado Children's Hospital to develop RNA therapies for treatment of
-pediatric neurological diseases. We are developing a pipeline using
-patient-derived cells to identify therapeutic antisense oligonucleotides
-that correct the negative impacts of mutations that alter pre-mRNA
-splicing.
+The newest efforts in the lab focus on RNA therapeutics. One is a collaboration
+with clinicians at Colorado Children's Hospital to develop RNA therapies for
+treatment of pediatric neurological diseases. A second area of emphasis is on
+development of mRNA vaccines withthat promote unique immune responses for
+therapeutic purposes.
 
 Finally, we host the [Informatics
 Fellows](https://medschool.cuanschutz.edu/rbi/training-and-education/informatics-fellows-program)
