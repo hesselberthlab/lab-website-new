@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RNA damage and repair
-description: How is RNA repair integrated with stress responses?
+description: 
 img: /assets/img/rna-repair.png
 importance: 1
 category: research
@@ -31,6 +31,19 @@ consequences of RNA damage. In doing so, we have uncovered new concepts
 in post-transcriptional regulation and are uniquely positioned to continue
 to explore the surprising roles of the RNA damage response in biology.
 
+### RNA sequencing approaches to study RNA damage repair
+
+We previously developed methods to capture the [2',3'-cyclic
+phosphate](https://pubmed.ncbi.nlm.nih.gov/20075163/) and
+[5'-OH](https://pubmed.ncbi.nlm.nih.gov/26001965/) products of RNA decay
+and have used these broadly to study spontaneous and enzyme-catalyzed RNA
+cleavage.
+
+Recently we developed an approach leveraging [nanopore
+sequencing](https://www.biorxiv.org/content/10.1101/2022.05.29.493267v1) to
+identify RNA 2´-phosphorylation — a clear biochemical mark of RNA repair.
+
+
 ### tRNA splicing
 
 <img style="float: right; max-width: 400px" src="/assets/img/trna-block.svg">
@@ -43,12 +56,13 @@ enzymes that ligate exons of tRNA during splicing and HAC1 mRNA during
 activation of the unfolded protein response.  The yeast RNA ligase Trl1
 joins 2',3'-cyclic phosphate and 5'-OH RNA fragments 32, yielding a
 phosphodiester linkage with a 2'-phosphate that is subsequently removed by
-the 2'-phosphotransferase Tpt1. Inspired by previous work in C. elegans,
-we rescued the lethality of TRL1 and TPT1 deletions in budding yeast by
+the 2'-phosphotransferase Tpt1. Inspired by previous work in *C. elegans*,
+we rescued the lethality of *TRL1* and *TPT1* deletions in budding yeast by
 expressing intron-less versions of the 10 normally intron-containing
 tRNAs, indicating this repair pathway does not have additional essential
 functions. These cells are critical reagents that have opened the door to
-new studies of eukaryotic RNA repair.
+new studies of eukaryotic RNA repair. We are currently expanding this approach
+to study the breadth of RNA repair across evolution.
 
 ### Unfolded protein response
 
@@ -71,17 +85,6 @@ substrates, the UPR is controlled by kinase-mediated signal transduction
 through RNA substrates. These studies provide a strong conceptual
 foundation for understanding new couplings between RNA damage and repair.
 
-### RNA sequencing approaches to study RNA damage repair
-
-We previously developed methods to capture the [2',3'-cyclic
-phosphate](https://pubmed.ncbi.nlm.nih.gov/20075163/) and
-[5'-OH](https://pubmed.ncbi.nlm.nih.gov/26001965/) products of RNA decay
-and have used these broadly to study spontaneous and enzyme-catalyzed RNA
-cleavage.
-
-We are conducting targeted and genome-wide searches for other targets of
-RNA repair. Such studies could provide new insights into the role of RNA
-repair in cellular physiology.
 
 ## Funding
 

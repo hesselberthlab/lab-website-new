@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Molecular technologies
-description: New tech for single-cell and spatial gene expression assays
+title: Molecular technology development
+description: 
 importance: 1
 ---
 
@@ -9,29 +9,27 @@ importance: 1
 
 <img style="float: right; max-width: 300px" src="/assets/img/sc-biochemistry.jpg">
 
-New methods to study heterogeneity at cellular resolution in complex
-tissues are transforming our understand-ing of human biology and disease.
-These approaches measure differences in gene expression, chromatin
-ac-cessibility, and protein levels across thousands to millions of cells
-to understand developmental trajectories of tissues, tumors, and whole
-organisms. But these methods rely on measurements of static levels of DNA,
-RNA, and proteins, and fail to capture dynamic biochemical activities that
-underlie complex cellular functions. Instead of developing more direct
-readouts of cellular function, the field has focused on inferring
-functional status from measurement of mRNA abundance and chromatin
+New methods to study heterogeneity at cellular resolution in complex tissues are
+transforming our understand-ing of human biology and disease. These approaches
+measure differences in gene expression, chromatin ac-cessibility, and protein
+levels across thousands to millions of cells to understand developmental
+trajectories of tissues, tumors, and whole organisms. But these methods rely on
+measurements of static levels of DNA, RNA, and proteins, and fail to capture
+dynamic biochemical activities that underlie complex cellular functions. Instead
+of developing more direct readouts of cellular function, the field has focused
+on inferring functional status from measurement of mRNA abundance and chromatin
 accessibility in single cells.
 
-To accelerate the study of biochemical heterogeneity among single cells,
-we are [developing functional
-assays](https://pubmed.ncbi.nlm.nih.gov/32286626/) as a new modality for
-single-cell experiments. Instead of measuring the abundance of molecules
--- levels of DNA, RNA, or protein -- from single cells and predicting cell
-functional states, our key innovation is to directly measure enzymatic
-activities in single cells by measuring the conversion of substrates to
-products by single cell extracts in a high-throughput DNA sequencing
-experiment. Our approach is compatible with existing platforms that
-measure gene expression in thousands to millions of individual cells and
-enables many different enzymatic activities to be measured simultaneously.
+To accelerate the study of biochemical heterogeneity among single cells, we are
+[developing functional assays](https://pubmed.ncbi.nlm.nih.gov/32286626/) as a
+new modality for single-cell experiments. Instead of measuring the abundance of
+molecules -- levels of DNA, RNA, or protein -- from single cells and predicting
+cell functional states, our key innovation is to directly measure enzymatic
+activities in single cells by measuring the conversion of substrates to products
+by single cell extracts in a high-throughput DNA sequencing experiment. Our
+approach is compatible with existing platforms that measure gene expression in
+thousands to millions of individual cells and enables many different enzymatic
+activities to be measured simultaneously.
 
 ### Charting tissue dissmination with molecular tracking devices
 
