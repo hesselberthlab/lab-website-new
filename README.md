@@ -2,6 +2,12 @@
 
 Based on this [jekyll theme](https://github.com/alshedivat/al-folio)
 
+## Install local dependencies
+
+```
+$ bundle update
+```
+
 ## Local preview
 
 ```
