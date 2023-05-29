@@ -12,4 +12,4 @@ inline: true
 - We were awarded a [Cancer League of Colorado](https://www.cancerleague.org/) collaborative award with Linda van Dyk to study "Immune targeting therapies to disrupt virus-associated lymphomas."
 - We were awarded a [CU ASPIRE](https://research.cuanschutz.edu/research-ppg/cu-anschutz-som-programmatic-incubator-for-research-(cu-aspire)-program) award with Beth Tamburini, Tem Morrison, and Jenna Guthmiller to study "Mechanisms of immune protection and pathology by lymph node stromal cells."
 - We were awarded an [NIH/NIAID R21](https://reporter.nih.gov/search/RzmDYkaaM0qOb3JTwvzbLw/project-details/10508093) with Ross Kedl to study "mRNA encoding of immune receptor-targeting antibodies for the augmentation of vaccine-elicited cellular immunity."
-- We published our working using [nanopore sequencing](https://pubmed.ncbi.nlm.nih.gov/36854608/) to identify targets of RNA repair in budding yeast.
+- We published our work using [nanopore sequencing](https://pubmed.ncbi.nlm.nih.gov/36854608/) to identify targets of RNA repair in budding yeast.
