@@ -651,8 +651,9 @@ footer.sticky-bottom {
           margin-left: 0;
 
           &:hover {
-            color: var(--global-theme-color);
+            background-color: var(--global-theme-color);
             border-color: var(--global-theme-color);
+            color: $white-color;
           }
         }
       }

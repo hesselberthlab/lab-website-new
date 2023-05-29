@@ -3,8 +3,8 @@ layout: page
 permalink: /positions/
 title: positions
 description:
-nav: true
-order: 5
+nav: false
+order: 10 
 ---
 
 ## Undergraduates

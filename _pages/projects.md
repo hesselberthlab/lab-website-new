@@ -9,4 +9,6 @@ children:
       permalink: /projects/rna-repair/
     - title: Molecular technologies
       permalink: /projects/molecular-tech/
+    - title: Software 
+      permalink: /projects/software/
 ---
