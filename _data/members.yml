@@ -3,8 +3,7 @@
   image: jay.png
   altimage:
   position: >
-    Associate Professor of [Biochemistry and Molecular Genetics](https://medschool.cuanschutz.edu/biochemistry){:target="_blank"} <br/>
-    Associate Director of the [Molecular Biology PhD Program](https://www.cuanschutz.edu/graduate-programs/molecular-biology/home){:target="_blank"} <br/>
+    Professor of [Biochemistry and Molecular Genetics](https://medschool.cuanschutz.edu/biochemistry){:target="_blank"} <br/>
     Co-Director of the [RNA Bioscience Initiative](https://medschool.cuanschutz.edu/rbi){:target="_blank"}
   email: jay.hesselberth (at) cuanschutz.edu
   website:
@@ -55,28 +54,6 @@
   twitter: 
   description: RBI Informatics Fellow 
   
-- name: Tyler Matheny
-  degrees: PhD
-  image: tyler.png
-  altimage:
-  position: Research Associate
-  email: tyler.matheny (at) cuanschutz.edu
-  website: https://github.com/tylermatheny
-  scholar: jVl4k08AAAAJ
-  twitter: 
-  description: RBI Informatics Fellow 
- 
-- name: Kristen Wells
-  degrees: PhD
-  image: kristen.jpeg
-  altimage:
-  position: Research Associate
-  email: kristen.wells-wrasman (at) cuanschutz.edu
-  website: https://github.com/kwells4
-  scholar: 
-  twitter: 
-  description: RBI Informatics Fellow (joint with the [Barbara Davis Center for Diabetes](https://medschool.cuanschutz.edu/barbara-davis-center-for-diabetes){:target="_blank"})
-  
 - name: Laura White
   degrees: PhD
   image: laura.png
@@ -87,13 +64,57 @@
   scholar: 
   twitter: 
   description: RBI Informatics Fellow
- 
+
+- name: Michael Kaufman
+  degrees: PhD
+  image: michael-kaufman.png
+  altimage:
+  position: Research Associate
+  email: michael.kaufman (at) cuanschutz.edu
+  website: https://github.com/MLKaufman
+  scholar: zIvvzS8AAAAJ
+  twitter: 
+  description: RBI Informatics Fellow 
+
 - name: Catherine Nicholas
   degrees: 
   image: catherine.png
   altimage:
   position: Graduate Student (BSP, MOLB), joint with [Mia Smith, PhD](https://medschool.cuanschutz.edu/barbara-davis-center-for-diabetes/about/faculty/mia-smith){:target="_blank"}
   email: catherine.nicholas (at) cuanschutz.edu
+  website:
+  scholar: 
+  twitter: 
+  description: NIH / NIDDK F32 fellowship
+  
+- name: Jill Bilodeaux
+  degrees: 
+  image: jill.jpg
+  altimage:
+  position: Graduate Student (MICB)
+  email: jill.bilodeaux (at) cuanschutz.edu
+  website: https://www.linkedin.com/in/jill-bilodeaux-999767107/
+  scholar: 
+  twitter: 
+  description:
+  
+- name: Ira Fleming
+  degrees: 
+  image: ira.jpg
+  altimage:
+  position: Graduate Student (MSTP > MOLB)
+  email: ira.fleming (at) cuanschutz.edu
+  website: https://www.linkedin.com/in/ira-fleming-40b508b0/
+  scholar: 
+  twitter: 
+  description:
+  
+- name: Ashlyn Stahly
+  degrees: 
+  image: 
+  altimage:
+  position: Graduate Student (MSTP > MOLB)
+  email: ashlyn.stahly (at) cuanschutz.edu
   website:
   scholar: 
   twitter: 
@@ -121,3 +142,13 @@
   twitter: 
   description:
 
+- name: Kezia Dobson
+  degrees: 
+  image: kezia.jpeg
+  altimage:
+  position: Professional Research Assistant 
+  email: kezia dobson (at) cuanschutz.edu
+  website: https://www.linkedin.com/in/kezia-dobson-04436b25b/ 
+  scholar: 
+  twitter: 
+  description:

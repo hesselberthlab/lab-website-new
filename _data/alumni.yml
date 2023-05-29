@@ -1,3 +1,27 @@
+- name: Tyler Matheny
+  degrees: PhD
+  image: tyler.png
+  altimage:
+  position: Research Associate
+  email: tyler.matheny (at) cuanschutz.edu
+  website: https://www.linkedin.com/in/tyler-matheny-phd/ 
+  scholar: jVl4k08AAAAJ
+  twitter: 
+  previously: RBI Informatics Fellow 
+  now: Subject Matter Expert at SOPHiA GENETICS 
+ 
+- name: Kristen Wells
+  degrees: PhD
+  image: kristen.jpeg
+  altimage:
+  position: Research Associate
+  email: kristen.wells-wrasman (at) cuanschutz.edu
+  website: https://github.com/kwells4
+  scholar: 
+  twitter: 
+  previously: RBI Informatics Fellow (joint with the [Barbara Davis Center for Diabetes](https://medschool.cuanschutz.edu/barbara-davis-center-for-diabetes){:target="_blank"})
+  now: Instructor, [Barbara Davis Center for Diabetes](https://medschool.cuanschutz.edu/barbara-davis-center-for-diabetes){:target="_blank"}
+
 - name: Mandy Richer
   degrees: PhD
   image: mandy.png
@@ -13,7 +37,6 @@
   now: Bridge Informatics
   website: https://github.com/oligomyeggo
  
-
 - name: Rui Fu
   degrees: PhD
   previously: RBI Informatics Fellow 
