@@ -18,8 +18,8 @@ social: false # includes social icons at the bottom of the page
 **[RNA Bioscience Initiative](https://medschool.cuanschutz.edu/rbi){:target="_blank"}** <br/>
 **[University of Colorado School of Medicine](https://www.cuanschutz.edu/){:target="_blank"}** <br/>
 
-We are a group of RNA biologists, technology developers, and data analysts on a
-mission to discover and leverage fundamental principles of RNA regulation.
+We are a group of RNA biologists, technology developers, and data analysts 
+focused on discovering and translating fundamental principles of RNA regulation.
 
 The broad goals of our laboratory are to:
 
@@ -29,8 +29,11 @@ MIRA](https://reporter.nih.gov/search/FWmPa7DGuk6CmPb8Ocb5XQ/project-details/101
 - Develop new molecular methods that enhance single-cell and spatial gene
 expression experiments (funded by an [NIH Transformative
 R01](https://commonfund.nih.gov/tra/recipients))
-- Develop and apply RNA therapeutics that modulate gene expression (funded
-by the [RNA Bioscience Initiative](https://medschool.cuanschutz.edu/rbi))
+- Develop and apply RNA therapeutics and vaccines that modulate gene expression, funded
+by the [RNA Bioscience Initiative](https://medschool.cuanschutz.edu/rbi), an award
+from [AB Nexus](https://www.cu.edu/ab-nexus/ab-nexus-grant-awardees), the
+[Cancer League of Colorado](https://www.cancerleague.org/), and a collaborative
+[CU ASPIRE](https://research.cuanschutz.edu/research-ppg/cu-anschutz-som-programmatic-incubator-for-research-(cu-aspire)-program) grant.
 
 A major effort in the lab focuses on the biology of RNA damage and repair using a
 combination of method development, bioinformatics, genetics, biochemistry, and
@@ -50,7 +53,7 @@ in single-cell assays, [tracking of ligands and associated gene expression
 responses](https://pubmed.ncbi.nlm.nih.gov/33843587/) through animal
 tissue, and approaches for quantifying metabolite levels.
 
-The newest efforts in the lab focus on RNA therapeutics. One is a collaboration
+The newest efforts in the lab focus on RNA therapeutics and vaccines. One is a collaboration
 with clinicians at Colorado Children's Hospital to develop RNA therapies for
 treatment of pediatric neurological diseases. A second area of emphasis is on
 development of mRNA vaccines that promote unique immune responses for
