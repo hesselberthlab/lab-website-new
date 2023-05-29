@@ -1,9 +1,0 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-*-cache
-_site
-*.html
-vendor
-.bundle

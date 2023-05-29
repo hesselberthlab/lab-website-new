@@ -21,8 +21,4 @@ $ bundle exec jekyll serve
 
 ## Deploy
 
-Use depoly script to deploy to `gh-pages`. Netlify takes care of the rest.
-
-```
-$ ./bin/deploy
-```
+Build and deploy is handled by Github Actions.
