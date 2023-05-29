@@ -212,7 +212,7 @@ scholar:
   last_name: Einstein
   first_name: [Albert, A.]
 
-  style: apa
+  style: national-library-of-medicine-grant-proposals.csl
   locale: en
 
   source: /_bibliography/

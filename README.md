@@ -17,9 +17,7 @@ $ bundle exec jekyll serve
 ## Publications
 
 - Export from paperpile
-- convert from bib to json with pandoc (see `_bibliography/json2yaml.py`)
-- Remove `''` from yaml file with `sed`
-- Final should be in `_data/publications.yaml`
+- Update the list of years in the header of `_pages/publications.md` if needed
 
 ## Deploy
 
