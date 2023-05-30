@@ -7,8 +7,8 @@ profile:
   align: right
   image: hesselberth-lab-hex-logo.png
   address: >
-    [Department of Biochemistry and Molecular Genetics](https://medschool.cuanschutz.edu/biochemistry) <br>   
     [RNA Bioscience Initiative](https://medschool.cuanschutz.edu/rbi) <br>
+    [Biochemistry & Molecular Genetics](https://medschool.cuanschutz.edu/biochemistry) <br>   
     [University of Colorado School of Medicine](https://www.cuanschutz.edu/)
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
