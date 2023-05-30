@@ -3,7 +3,7 @@ layout: page
 title: projects
 nav: true
 dropdown: true
-order: 3
+nav_order: 3
 children: 
     - title: RNA damage and repair 
       permalink: /projects/rna-repair/
