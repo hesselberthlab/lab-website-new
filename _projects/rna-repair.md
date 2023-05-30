@@ -31,7 +31,7 @@ consequences of RNA damage. In doing so, we have uncovered new concepts
 in post-transcriptional regulation and are uniquely positioned to continue
 to explore the surprising roles of the RNA damage response in biology.
 
-### RNA sequencing approaches to study RNA damage repair
+### RNA sequencing approaches to study RNA damage & repair
 
 We previously developed methods to capture the [2',3'-cyclic
 phosphate](https://pubmed.ncbi.nlm.nih.gov/20075163/) and
