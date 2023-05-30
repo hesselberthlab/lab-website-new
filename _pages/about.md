@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-order: 1
+nav_order: 1
 profile:
   align: right
   image: hesselberth-lab-hex-logo.png
