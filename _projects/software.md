@@ -1,20 +1,23 @@
 ---
 layout: page
 title: Software development
-description: Software and analyis pipelines
+description: 
 importance: 1
 category: research
 ---
 
-We provide complete analysis workflows for our studies. The complete
-collection of software packages are available at:
+We develop software packages and provide complete analysis workflows for our studies. The complete
+collection of software packages are available on the [RBI Github page](https://github.com/rnabioco).
 
-- [RNA Bioscience Initiative](https://github.com/rnabioco)
-- [Hesselberth lab](https://github.com/hesselberthlab)
+Our public data sets are available at the [NCBI  Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/browse/?view=series&submitter=2717).
 
-Our public data sets are available:
+## raer
 
-- [NCBI GEO datasets](https://www.ncbi.nlm.nih.gov/geo/browse/?view=series&submitter=2717){:target="_blank"}
+<img style="float: right; max-width: 100px" src="/assets/img/hex/raer.png">
+
+[`raer`](https://github.com/rnabioco/raer) facilitates analysis of RNA adenosine editing in the Bioconductor ecosystem.
+
+<br>
 
 ## djvdj
 
