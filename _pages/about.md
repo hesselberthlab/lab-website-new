@@ -2,21 +2,18 @@
 layout: about
 title: about
 permalink: /
-description:
 order: 1
-
 profile:
   align: right
   image: hesselberth-lab-hex-logo.png
-
+  address: >
+    [Department of Biochemistry and Molecular Genetics](https://medschool.cuanschutz.edu/biochemistry) <br>   
+    [RNA Bioscience Initiative](https://medschool.cuanschutz.edu/rbi) <br>
+    [University of Colorado School of Medicine](https://www.cuanschutz.edu/)
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-
-**[Department of Biochemistry and Molecular Genetics](https://medschool.cuanschutz.edu/biochemistry){:target="_blank"}** <br/>
-**[RNA Bioscience Initiative](https://medschool.cuanschutz.edu/rbi){:target="_blank"}** <br/>
-**[University of Colorado School of Medicine](https://www.cuanschutz.edu/){:target="_blank"}** <br/>
 
 We are a group of RNA biologists, technology developers, and data analysts 
 focused on discovering and translating fundamental principles of RNA regulation.
