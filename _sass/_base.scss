@@ -105,6 +105,12 @@ blockquote {
   }
 }
 
+// News
+.news-color {
+  color: var(--global-text-color);
+  background-color: var(--global-theme-color);  
+}
+
 // Citation
 
 .citation,
