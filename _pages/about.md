@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-We are RNA biologists, technology developers, and data analysts 
+We are a research laboratory of RNA biologists, technology developers, and data analysts 
 focused on discovering and translating fundamental principles of RNA regulation.
 
 A major effort in the lab is to **understand how RNA damage and repair are integrated with stress responses**
