@@ -144,6 +144,9 @@
           {%- if entry.biorxiv %}
             <a href="https://www.biorxiv.org/content/{{ entry.biorxiv }}" class="btn btn-sm z-depth-0" role="button">bioRxiv</a>
           {%- endif %}
+          {%- if entry.github %}
+            <a href="{{ entry.github}}" class="btn btn-sm z-depth-0" role="button">GitHub</a>
+          {%- endif %}
           {%- if entry.arxiv %}
             <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
           {%- endif %}
