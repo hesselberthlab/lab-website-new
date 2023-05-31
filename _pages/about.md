@@ -27,7 +27,7 @@ understand the causes and consequences of RNA damage. Our studies have led to
 [new concepts](https://elifesciences.org/articles/42262) in post-transcriptional
 regulation with broad implications for understanding the role of RNA damage and repair.
 
-A second focus is on **molecular tools that expand the capabilities of single-cell and spatial 
+A second focus is on **molecular tools that enhance single-cell and spatial 
 transcriptomic experiments**. Our recent advances include the [measurement of
 enzyme activity and inhibition](https://pubmed.ncbi.nlm.nih.gov/32286626/)
 in single-cell assays, [tracking of ligands and associated gene expression
