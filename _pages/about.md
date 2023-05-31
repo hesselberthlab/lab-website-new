@@ -19,7 +19,7 @@ We are a research laboratory of RNA biologists, technology developers, and data 
 focused on discovering and translating fundamental principles of RNA regulation.
 
 A major effort in the lab is to **understand how RNA damage and repair are integrated with stress responses**
-using combination of method development, bioinformatics, genetics, biochemistry, and
+by combining method development, bioinformatics, genetics, biochemistry, and
 cell biology. We developed [new sequencing
 approaches](https://pubmed.ncbi.nlm.nih.gov/26001965/) to identify damaged RNAs
 and [new model systems](https://pubmed.ncbi.nlm.nih.gov/29212664/) to
@@ -27,8 +27,8 @@ understand the causes and consequences of RNA damage. Our studies have led to
 [new concepts](https://elifesciences.org/articles/42262) in post-transcriptional
 regulation with broad implications for understanding the role of RNA damage and repair.
 
-A second focus is on **molecular methods that expand the capabilities of single-cell and spatial gene
-expression experiments**. Our recent advances include the [measurement of
+A second focus is on **molecular tools that expand the capabilities of single-cell and spatial 
+transcriptomic experiments**. Our recent advances include the [measurement of
 enzyme activity and inhibition](https://pubmed.ncbi.nlm.nih.gov/32286626/)
 in single-cell assays, [tracking of ligands and associated gene expression
 responses](https://pubmed.ncbi.nlm.nih.gov/33843587/) through animal
@@ -36,5 +36,5 @@ tissue.
 
 The newest efforts in the lab focus on **RNA therapeutics and vaccines**. One is a collaboration
 with clinicians at Children's Hospital Colorado to develop RNA therapies for
-treatment of pediatric neurological diseases, and a second area of emphasis is on
+treatment of pediatric neurological diseases, and a second emphasis is on
 development of mRNA vaccines that promote unique immune responses.
