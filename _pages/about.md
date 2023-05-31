@@ -36,5 +36,5 @@ tissue.
 
 The newest efforts in the lab focus on **RNA therapeutics and vaccines**. One is a collaboration
 with clinicians at Children's Hospital Colorado to develop RNA therapies for
-treatment of pediatric neurological diseases, and a second emphasis is on
+pediatric neurological diseases, and a second emphasis is on
 development of mRNA vaccines that promote unique immune responses.
