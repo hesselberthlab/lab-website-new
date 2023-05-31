@@ -34,11 +34,22 @@ of TMO ASOs to manipulate nuclear mRNA expression and processing.
 
 ### mRNA vaccines
 
-TBD
+The RBI initiated a pilot program to develop mRNA vaccines in collaboration wih local immunologists.
+We have established mRNA manufacturing and lipid nanoparticle production, and have worked with several
+local immunologists to apply mRNA vaccines for manipulation of specific immune reponses.
+
+Our collaborators include:
+
+- Beth Tabmurini, PhD to apply mRNA vaccines to manipulate lymph node stromal cell populations.
+- Ross Kedl, PhD to use mRNA-encoded antibodies to improve T cell-mediated immunity.
+- Yuwen Zhu, PhD to develop cancer immmunotherapies.
+- Linda van Dyk, PhD to develop mRNA vaccines against lymphoma-associated viruses.
+
 
 ### Funding 
 
 - [RNA Bioscience Initiative](https://medschool.cuanschutz.edu/rbi)
+- [CU ASPIRE](https://research.cuanschutz.edu/research-ppg/cu-anschutz-som-programmatic-incubator-for-research-(cu-aspire)-program) (with Beth Tamburini, Tem Morrison, and Jenna Guthmiller)
 - [NIH/NIAID R21](https://reporter.nih.gov/search/KCn2GoFH4U6FA_R7aLFX6g/project-details/10508093) (with Ross Kedl)
 - [Cancer League of Colorado](https://www.cancerleague.org/) (with Linda van Dyk)
 - [AB Nexus](https://www.cu.edu/ab-nexus) (with Ondrej Kostov and Marvin Caruthers, CU Boulder)
