@@ -35,10 +35,10 @@ of TMO ASOs to manipulate nuclear mRNA expression and processing.
 ### mRNA vaccines
 
 The RBI initiated a pilot program to develop mRNA vaccines in collaboration wih local immunologists.
-We have established mRNA manufacturing and lipid nanoparticle production, and have worked with several
+We have established mRNA manufacturing and lipid nanoparticle production and have worked with several
 local immunologists to apply mRNA vaccines for manipulation of specific immune reponses.
 
-Our collaborators include:
+Our collaborators at CU Anschutz include:
 
 - Beth Tabmurini, PhD to apply mRNA vaccines to manipulate lymph node stromal cell populations.
 - Ross Kedl, PhD to use mRNA-encoded antibodies to improve T cell-mediated immunity.
