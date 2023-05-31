@@ -30,7 +30,7 @@ regulation with broad implications for understanding the role of RNA damage and 
 A second focus is on **molecular tools that enhance single-cell and spatial 
 transcriptomic experiments**. Our recent advances include the [measurement of
 enzyme activity and inhibition](https://pubmed.ncbi.nlm.nih.gov/32286626/)
-in single-cell assays, [tracking of ligands and associated gene expression
+in single-cell assays and [tracking ligands and associated gene expression
 responses](https://pubmed.ncbi.nlm.nih.gov/33843587/) through animal
 tissue.
 
