@@ -34,7 +34,7 @@ in single-cell assays, [tracking of ligands and associated gene expression
 responses](https://pubmed.ncbi.nlm.nih.gov/33843587/) through animal
 tissue.
 
-The newest efforts in the lab focus on **RNA therapeutics and vaccines**. One is a collaboration
+Our newest efforts focus on **RNA therapeutics and vaccines**. One is a collaboration
 with clinicians at Children's Hospital Colorado to develop RNA therapies for
 pediatric neurological diseases, and a second emphasis is on
 development of mRNA vaccines that promote unique immune responses.
