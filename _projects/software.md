@@ -2,20 +2,21 @@
 layout: page
 title: Software development
 description: 
-importance: 1
+importance: 3
 category: research
 ---
 
 We develop software packages and provide complete analysis workflows for our studies. The complete
 collection of software packages are available on the [RBI Github page](https://github.com/rnabioco).
 
-Our public data sets are available at the [NCBI  Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/browse/?view=series&submitter=2717).
+Our public data sets are available at the [NCBI Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/browse/?view=series&submitter=2717).
 
 ## raer
 
 <img style="float: right; max-width: 100px" src="/assets/img/hex/raer.png">
 
-[`raer`](https://github.com/rnabioco/raer) facilitates analysis of RNA adenosine editing in the Bioconductor ecosystem.
+[`raer`](https://github.com/rnabioco/raer) facilitates analysis of RNA adenosine editing in the Bioconductor ecosystem,
+enabling rigorous identification of editing events from both bulk and single-cell mRNA sequencing experiments.
 
 <br>
 
@@ -23,7 +24,9 @@ Our public data sets are available at the [NCBI  Gene Expression Omnibus](https:
 
 <img style="float: right; max-width: 100px" src="/assets/img/hex/djvdj.png">
 
-[`djvdj`](https://github.com/rnabioco/djvdj) provides a range of tools to analyze and manipulate single cell V(D)J sequencing data.
+[`djvdj`](https://github.com/rnabioco/djvdj) provides a range of tools to analyze and manipulate single cell V(D)J sequencing data,
+with a particular focus on a facile user experience, providing publication-quality plots
+exploring the VDJ repertoire and associated gene expression patterns.
 
 <br>
 
