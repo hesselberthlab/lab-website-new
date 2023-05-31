@@ -5,7 +5,7 @@ permalink: /
 nav_order: 1
 profile:
   align: right
-  image: hesselberth-lab-hex-logo.png
+  image: hesselberth-lab-hex-logo.jpg
   address: >
     [RNA Bioscience Initiative](https://medschool.cuanschutz.edu/rbi) <br>
     [Biochemistry & Molecular Genetics](https://medschool.cuanschutz.edu/biochemistry) <br>   
