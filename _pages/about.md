@@ -7,6 +7,7 @@ profile:
   align: right
   image: hesselberth-lab-hex-logo.jpg
   address: >
+    *Our affiliations*: <br>
     [RNA Bioscience Initiative](https://medschool.cuanschutz.edu/rbi) <br>
     [Biochemistry & Molecular Genetics](https://medschool.cuanschutz.edu/biochemistry) <br>   
     [University of Colorado School of Medicine](https://www.cuanschutz.edu/)
