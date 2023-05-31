@@ -38,3 +38,5 @@ Our newest efforts focus on **RNA therapeutics and vaccines**. One is a collabor
 with clinicians at Children's Hospital Colorado to develop RNA therapies for
 pediatric neurological diseases, and a second emphasis is on
 development of mRNA vaccines that promote unique immune responses.
+
+*See the **projects** link above for more detail on these studies.*
