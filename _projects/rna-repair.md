@@ -14,7 +14,7 @@ of the DNA damage response, we are only beginning to learn how RNA damage,
 end modification, and processing are integrated in the RNA damage response
 to orchestrate RNA processing for regulatory control.
 
-<img style="float: right; max-width: 400px" src="/assets/img/rna-repair.svg">
+<img style="float: right; max-width: 400px" src="/assets/img/rna-repair.jpg">
 
 Growing evidence indicates RNA repair activities can be linked together to
 create elegant forms of post-transcriptional control. We and
@@ -50,9 +50,11 @@ also identified a collection of mRNAs that generate similar signals during
 nanopore sequencing, suggesting they are also targets of repair. We continue
 to apply this approach to characterize RNA repair events during stress conditions.
 
-### tRNA splicing
+<div class="publications">
+  {% bibliography -f {{ site.scholar.bibliography }} -q @*[pmid=36854608]* %}
+</div>
 
-<img style="float: right; max-width: 400px" src="/assets/img/trna-block.svg">
+### tRNA splicing
 
 We [recently generated](https://pubmed.ncbi.nlm.nih.gov/29212664/) budding
 yeast cells that lack normally essential compo-nents of RNA repair. RNA
@@ -76,9 +78,11 @@ are using the genetic bypass strategy to identify other essential functions of T
 which may shed light on its role in the human neurodegenerative disease pontocerebellar
 hypoplasia.
 
-### Unfolded protein response
+<div class="publications">
+  {% bibliography -f {{ site.scholar.bibliography }} -q @*[pmid=29212664]* %}
+</div>
 
-<img style="float: right; max-width: 200px" src="/assets/img/upr.jpg">
+### Unfolded protein response
 
 We [recently discovered](https://pubmed.ncbi.nlm.nih.gov/30874502/) a
 previously unappreciated layer of post-transcriptional regulation during
@@ -97,6 +101,9 @@ substrates, the UPR is controlled by kinase-mediated signal transduction
 through RNA substrates. These studies provide a strong conceptual
 foundation for understanding new couplings between RNA damage and repair.
 
+<div class="publications">
+  {% bibliography -f {{ site.scholar.bibliography }} -q @*[pmid=30874502]* %}
+</div>
 
 ## Funding
 
