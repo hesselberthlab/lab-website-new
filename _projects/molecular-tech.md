@@ -7,8 +7,6 @@ importance: 1
 
 ### Single-cell biochemistry: a new approach to measure functional heterogeneity
 
-<img style="float: right; max-width: 300px" src="/assets/img/sc-biochemistry.jpg">
-
 New methods to study heterogeneity at cellular resolution in complex tissues are
 transforming our understand-ing of human biology and disease. These approaches
 measure differences in gene expression, chromatin ac-cessibility, and protein
@@ -21,7 +19,7 @@ on inferring functional status from measurement of mRNA abundance and chromatin
 accessibility in single cells.
 
 To accelerate the study of biochemical heterogeneity among single cells, we are
-[developing functional assays](https://pubmed.ncbi.nlm.nih.gov/32286626/) as a
+developing functional assays as a
 new modality for single-cell experiments. Instead of measuring the abundance of
 molecules -- levels of DNA, RNA, or protein -- from single cells and predicting
 cell functional states, our key innovation is to directly measure enzymatic
@@ -31,9 +29,11 @@ approach is compatible with existing platforms that measure gene expression in
 thousands to millions of individual cells and enables many different enzymatic
 activities to be measured simultaneously.
 
-### Charting tissue dissmination with molecular tracking devices
+<div class="publications">
+  {% bibliography -f {{ site.scholar.bibliography }} -q @*[pmid=32286626]* %}
+</div>
 
-<img style="float: right; max-width: 300px" src="/assets/img/mouse-tracking-device.jpeg">
+### Charting tissue dissmination with molecular tracking devices
 
 The dissemination of molecules through tissue establishes signaling
 gradients that drive complex developmental patterns, enables rapid
@@ -42,8 +42,8 @@ drugs. However, our understanding of this molecular cartography would be
 vastly improved by charting molecular traffic throughout organ systems and
 cataloguing cell and tissue responses upon arrival and sensing.
 
-We [recently developed "molecular tracking
-devices"](https://pubmed.ncbi.nlm.nih.gov/33843587/) -- protein-DNA
+We recently developed "molecular tracking
+devices" -- protein-DNA
 conjugates that are stable during tissue transit *in vivo* -- to follow
 the distribution, acquisition, and retention of antigen in the immune
 system during an immune response. Molecular tracking devices enable
@@ -52,6 +52,10 @@ signaling gradients and ligand-receptor interactions in living animals. We
 are expanding this approach to study the dynamics and concentrations of
 tracking devices within tissue and associated gene expression responses
 caused by receptor activation.
+
+<div class="publications">
+  {% bibliography -f {{ site.scholar.bibliography }} -q @*[pmid=33843587]* %}
+</div>
 
 ### Funding
 
