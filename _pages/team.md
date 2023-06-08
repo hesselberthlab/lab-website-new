@@ -27,10 +27,13 @@ nav_order: 2
           <i class="fab fa-github"></i> <a href= "https://github.com/{{person.github}}" target="_blank"> {{person.github}} </a> <br>
         {% endif %}
         {% if person.scholar %}
-          <i class="ai ai-google-scholar"></i> <a href= "http://scholar.google.com/citations?user={{person.scholar}}" target="_blank"> Scholar Citations </a> <br>
+          <i class="ai ai-google-scholar"></i> <a href= "https://scholar.google.com/citations?user={{person.scholar}}" target="_blank"> Scholar Citations </a> <br>
         {% endif %}
         {% if person.orcid %}
-          <i class="ai ai-orcid"></i> <a href="http://{{person.orcid}}" target="_blank"> {{person.orcid}}</a> <br>
+          <i class="ai ai-orcid"></i> <a href="https://orcid.org/my-orcid?orcid={{person.orcid}}" target="_blank"> {{person.orcid}}</a> <br>
+        {% endif %}
+        {% if person.linkedin %}
+          <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/{{person.linkedin}}" target="_blank"> {{person.linkedin}}</a> <br>
         {% endif %}
 
     </div>
@@ -105,7 +108,13 @@ nav_order: 2
   <strong>{{alum.name}}{% if alum.degrees %}, {{alum.degrees}} {% endif %}</strong> <br>
   <i>previously:</i> {{alum.previously}} <br>
   <i>current position:</i> {{alum.now}}<br>
-    {% if alum.website %} <i class="fa fa-globe"></i> <a href= "{{alum.website}}" target="_blank">{{alum.website}}</a>  {% endif %}
+  {% if alum.linkedin %}
+  <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/{{person.linkedin}}" target="_blank"> {{alum.linkedin}}</a> <br>
+  {% endif %}
+  {% if alum.github %}
+  <i class="fab fa-github"></i> <a href= "https://github.com/{{person.github}}" target="_blank"> {{alum.github}} </a> <br>
+  {% endif %}
+  {% if alum.website %} <i class="fa fa-globe"></i> <a href= "{{alum.website}}" target="_blank">{{alum.website}}</a>  {% endif %}
     {% for paper in site.data.publications %}
   {% if paper.authors contains alum.pubmed_name %}
   <div style="margin-left: 2.5em; padding-top: 8px; padding-bottom: 5px; ">{{paper.authors | remove: '**'}} <a href="/papers/index.html#{{paper.title | replace: ' ', '-' |  remove: '.'}}">{{paper.title}}</a> {{paper.details}}</div>

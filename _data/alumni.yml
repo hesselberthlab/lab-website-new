@@ -4,7 +4,7 @@
   altimage:
   position: Research Associate
   email: tyler.matheny (at) cuanschutz.edu
-  website: https://www.linkedin.com/in/tyler-matheny-phd/ 
+  linkedin: tyler-matheny-phd
   scholar: jVl4k08AAAAJ
   twitter: 
   previously: RBI Informatics Fellow 
@@ -16,7 +16,7 @@
   altimage:
   position: Research Associate
   email: kristen.wells-wrasman (at) cuanschutz.edu
-  website: https://github.com/kwells4
+  github: kwells4
   scholar: 
   twitter: 
   previously: RBI Informatics Fellow (joint with the [Barbara Davis Center for Diabetes](https://medschool.cuanschutz.edu/barbara-davis-center-for-diabetes){:target="_blank"})
@@ -27,34 +27,27 @@
   image: mandy.png
   altimage:
   previously: Research Scientist
-  now: consultant
+  now: consultant, Honeycomb Bio
   email: amanda.richer (at) cuanschutz.edu
-  website: https://www.linkedin.com/in/amanda-richer-1718b297/
+  linkedin: amanda-richer-1718b297
 
 - name: Caitlin Winkler
   degrees: PhD
   previously: RBI Informatics Fellow (joint with [Section of Developmental Biology](https://medschool.cuanschutz.edu/pediatrics/sections/developmental-biology/faculty){:target="_blank"})
   now: Bridge Informatics
-  website: https://github.com/oligomyeggo
+  github: oligomyeggo
  
 - name: Rui Fu
   degrees: PhD
   previously: RBI Informatics Fellow 
   now: Bioinformatics Scientist, New York Genome Center
-  website: https://github.com/raysinensis
+  github: raysinensis
   scholar: 5K4soB0AAAAJ
 
 - name: Rachel Ancar
   degrees: PhD
   previously: Graduate Student (MSTP, MOLB)
-  now: Medical Student, University of Colorado School of Medicine 
-  email:
-  website:
-  
-- name: Mandy Richer 
-  degrees: PhD
-  previously: Graduate Student (BSP, MOLB)
-  now: Research Scientist, Hesselberth lab 
+  now: Resident, Massachusetts General Hospital 
   email:
   website:
   
@@ -63,21 +56,21 @@
   previously: Graduate Student (MOLB)
   now: Scientist, Twist Bioscience
   email:
-  website: https://www.linkedin.com/in/p-cherry/
+  linkedin: p-cherry
   
 - name: Sally Peach
   degrees: MD, PhD
   previously: Graduate Student (MSTP, MOLB)
   now: Pediatrics Resident, Seattle Children's Hospital 
   email:
-  website: https://www.linkedin.com/in/sallypeach/
+  linkedin: sallypeach
 
 - name: Suzi Bryan
   degrees: PhD
   previously: Graduate Student (BSP, MOLB)
   now: Scientist, Illumina 
   email:
-  website: https://www.linkedin.com/in/suzibryan/ 
+  linkedin: suzibryan
   
 - name: Shannon Walsh
   degrees: PhD
@@ -89,16 +82,16 @@
 - name: Monica Ransom
   degrees: PhD
   previously: Postdoctoral Fellow
-  now: Instructor, UC Genomics Core 
+  now: Instructor, Craig Jordan Lab
   email:
-  website: https://medschool.cuanschutz.edu/colorado-cancer-center/research/shared-resources/genomics
+  website: https://medschool.cuanschutz.edu/hematology/research/jordan-lab/members 
 
 - name: Austin Gillen
   degrees: PhD
   previously: Postdoctoral Fellow
   now: Assistant Research Professor, Hematology, CU Anschutz
   email:
-  website: https://som.ucdenver.edu/Profiles/Faculty/Profile/25627
+  website: https://som.cuanschutz.edu/Profiles/Faculty/Profile/25627 
 
 - name: Stephen Garrey
   degrees: PhD
@@ -112,13 +105,13 @@
   previously: RBISIP summer intern
   now:
   email:
-  website: https://www.linkedin.com/in/sidhant-puntambekar/
+  linkedin: sidhant-puntambekar
 
 - name: Haven Himmighoefer
   degrees: 
   previously: Undergraduate researcher 
   now:
-  email:
+  linkedin: haven-himmighoefer
   website:
 
 - name: Lakotah Hardie
@@ -126,7 +119,7 @@
   previously:
   now:
   email:
-  website: https://scholar.google.com/citations?user=xjtlmWcAAAAJ&hl=en
+  scholar: https://scholar.google.com/citations?user=xjtlmWcAAAAJ&hl=en
 
 - name: Leslie Aranda
   degrees: 
@@ -140,13 +133,13 @@
   previously: PRA
   now:
   email:
-  website: https://www.linkedin.com/in/prekeris/
+  linkedin: prekeris
 
 - name: Kerri York
   degrees: 
   previously: PRA
   now:
   email:
-  website: https://www.linkedin.com/in/kerriyork/
+  linkedin: kerriyork
 
 

@@ -9,6 +9,9 @@
   website:
   scholar: EnOmNEYAAAAJ
   twitter: "jayhesselberth"
+  linkedin: jay-hesselberth
+  github: jayhesselberth
+  orcid: 0000-0002-6299-179X
  
 - name: Erika Lasda
   degrees: PhD
@@ -16,7 +19,7 @@
   altimage:
   position: Research Scientist
   email: erika.lasda (at) cuanschutz.edu
-  website: https://www.linkedin.com/in/elasda/
+  linkedin: elasda
   scholar: 
   twitter: 
   description:
@@ -27,7 +30,7 @@
   altimage:
   position: Research Scientist
   email: maggie.balas (at) cuanschutz.edu
-  website: https://www.linkedin.com/in/maggie-balas/
+  linkedin: maggie-balas
   scholar: 
   twitter: 
   description:
@@ -38,7 +41,7 @@
   altimage:
   position: Senior Instructor
   email: kent.riemondy (at) cuanschutz.edu
-  website: https://github.com/kriemo
+  github: kriemo
   scholar: 
   twitter: 
   description: Faculty lead of the [RNA Bioscience Initiative Informatics Fellows](https://medschool.cuanschutz.edu/rbi/training-and-education/informatics-fellows-program){:target="_blank"}
@@ -49,7 +52,7 @@
   altimage:
   position: Senior Research Associate
   email: ryan.sheridan (at) cuanschutz.edu
-  website: https://github.com/sheridar
+  github: sheridar
   scholar: FNCSPtYAAAAJ
   twitter: 
   description: RBI Informatics Fellow 
@@ -60,7 +63,8 @@
   altimage:
   position: Research Associate
   email: laura.k.white (at) cuanschutz.edu
-  website: https://www.github.com/lkwhite/
+  github: lkwhite
+  linkedin: laurakwhite
   scholar: 
   twitter: 
   description: RBI Informatics Fellow
@@ -71,7 +75,7 @@
   altimage:
   position: Research Associate
   email: michael.kaufman (at) cuanschutz.edu
-  website: https://github.com/MLKaufman
+  github: MLKaufman
   scholar: zIvvzS8AAAAJ
   twitter: 
   description: RBI Informatics Fellow 
@@ -82,7 +86,7 @@
   altimage:
   position: Graduate Student (BSP, MOLB), joint with [Mia Smith, PhD](https://medschool.cuanschutz.edu/barbara-davis-center-for-diabetes/about/faculty/mia-smith){:target="_blank"}
   email: catherine.nicholas (at) cuanschutz.edu
-  website: https://www.linkedin.com/in/canicholas/
+  linkedin: canicholas
   scholar: 
   twitter: 
   description: NIH / NIDDK F31 fellowship
@@ -93,7 +97,7 @@
   altimage:
   position: Graduate Student (MICB)
   email: jill.bilodeaux (at) cuanschutz.edu
-  website: https://www.linkedin.com/in/jill-bilodeaux-999767107/
+  linkedin: jill-bilodeaux-999767107
   scholar: 
   twitter: 
   description:
@@ -104,7 +108,7 @@
   altimage:
   position: Graduate Student (MSTP > MOLB), joint with [Beth Tamburini, PhD](https://medschool.cuanschutz.edu/gastroenterology/research/research-laboratories/beth-jiron-tamburini-lab)
   email: ira.fleming (at) cuanschutz.edu
-  website: https://www.linkedin.com/in/ira-fleming-40b508b0/
+  linkedin: ira-fleming-40b508b0
   scholar: 
   twitter: 
   description:
@@ -126,7 +130,7 @@
   altimage:
   position: Professional Research Assistant 
   email: aspen.uecker-martin (at) cuanschutz.edu
-  website: https://www.linkedin.com/in/aspenmartin/
+  linkedin: aspenmartin
   scholar: 
   twitter: 
   description:
@@ -137,7 +141,7 @@
   altimage:
   position: Professional Research Assistant 
   email: saylor.strugar (at) cuanschutz.edu
-  website: https://www.linkedin.com/in/saylor-strugar-4985061b6/
+  linkedin: saylor-strugar-4985061b6
   scholar: 
   twitter: 
   description:
@@ -148,7 +152,7 @@
   altimage:
   position: Professional Research Assistant 
   email: kezia.dobson (at) cuanschutz.edu
-  website: https://www.linkedin.com/in/kezia-dobson-04436b25b/ 
+  linkedin: kezia-dobson-04436b25b
   scholar: 
   twitter: 
   description:
