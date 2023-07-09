@@ -109,7 +109,7 @@ nav_order: 2
   <i>previously:</i> {{alum.previously}} <br>
   <i>current position:</i> {{alum.now}}<br>
   {% if alum.linkedin %}
-  <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/{{person.linkedin}}" target="_blank"> {{alum.linkedin}}</a> <br>
+  <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/{{alum.linkedin}}" target="_blank"> {{alum.linkedin}}</a> <br>
   {% endif %}
   {% if alum.github %}
   <i class="fab fa-github"></i> <a href= "https://github.com/{{person.github}}" target="_blank"> {{alum.github}} </a> <br>
