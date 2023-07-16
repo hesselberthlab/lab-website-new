@@ -1,3 +1,20 @@
+- name: Aspen Martin
+  image: aspen.jpeg
+  previously: Professional Research Assistant 
+  now: Scientist at [Foresight Diagnostics](https://foresight-dx.com/)
+  linkedin: aspenmartin
+ 
+- name: Saylor Strugar
+  degrees: 
+  image: saylor.jpeg
+  altimage:
+  previously: Professional Research Assistant 
+  now: Graduate student, [University of Wisconsin IPIB](https://ipib.wisc.edu/)
+  linkedin: saylor-strugar-4985061b6
+  scholar: 
+  twitter: 
+  description:
+
 - name: Tyler Matheny
   degrees: PhD
   image: tyler.png

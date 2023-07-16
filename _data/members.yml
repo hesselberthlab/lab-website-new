@@ -50,12 +50,12 @@
   degrees: PhD
   image: ryan.png
   altimage:
-  position: Senior Research Associate
+  position: Instructor 
   email: ryan.sheridan (at) cuanschutz.edu
   github: sheridar
   scholar: FNCSPtYAAAAJ
   twitter: 
-  description: RBI Informatics Fellow 
+  description: RBI Informatics Faculty
   
 - name: Laura White
   degrees: PhD
@@ -84,7 +84,7 @@
   degrees: 
   image: catherine.png
   altimage:
-  position: Graduate Student (BSP, MOLB), joint with [Mia Smith, PhD](https://medschool.cuanschutz.edu/barbara-davis-center-for-diabetes/about/faculty/mia-smith){:target="_blank"}
+  position: Graduate Student (BSP > MOLB), joint with [Mia Smith, PhD](https://medschool.cuanschutz.edu/barbara-davis-center-for-diabetes/about/faculty/mia-smith){:target="_blank"}
   email: catherine.nicholas (at) cuanschutz.edu
   linkedin: canicholas
   scholar: 
@@ -115,7 +115,7 @@
   
 - name: Ashlyn Stahly
   degrees: 
-  image: 
+  image: ashlyn.png
   altimage:
   position: Graduate Student (MSTP > MOLB)
   email: ashlyn.stahly (at) cuanschutz.edu
@@ -124,28 +124,6 @@
   twitter: 
   description:
   
-- name: Aspen Martin
-  degrees: 
-  image: aspen.jpeg
-  altimage:
-  position: Professional Research Assistant 
-  email: aspen.uecker-martin (at) cuanschutz.edu
-  linkedin: aspenmartin
-  scholar: 
-  twitter: 
-  description:
- 
-- name: Saylor Strugar
-  degrees: 
-  image: saylor.jpeg
-  altimage:
-  position: Professional Research Assistant 
-  email: saylor.strugar (at) cuanschutz.edu
-  linkedin: saylor-strugar-4985061b6
-  scholar: 
-  twitter: 
-  description:
-
 - name: Kezia Dobson
   degrees: 
   image: kezia.jpeg
