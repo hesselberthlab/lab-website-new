@@ -42,13 +42,13 @@ cleavage.
 <img style="float: right; max-width: 400px" src="/assets/img/rna-repair-nanopore.jpg">
 
 Recently we developed an approach leveraging [nanopore
-sequencing](https://pubmed.ncbi.nlm.nih.gov/36854608/) to
-identify RNA 2´-phosphorylation — a *bona fide* biochemical mark of RNA repair.
-This approach enabled unambiguous detection of repair events on tRNA products of ligation
-and the Hac1 mRNA, which is ligated during the unfolded protein responses. We 
-also identified a collection of mRNAs that generate similar signals during
-nanopore sequencing, suggesting they are also targets of repair. We continue
-to apply this approach to characterize RNA repair events during stress conditions.
+sequencing](https://pubmed.ncbi.nlm.nih.gov/36854608/) to identify RNA
+2´-phosphorylation — a *bona fide* biochemical mark of RNA repair. This approach
+enabled unambiguous detection of repair events on tRNA products of ligation and
+the Hac1 mRNA, which is ligated during the unfolded protein responses. We also
+identified a collection of mRNAs that generate similar signals during nanopore
+sequencing, suggesting they are also targets of repair. We continue to apply
+this approach to characterize RNA repair events during stress conditions.
 
 <div class="publications">
   {% bibliography -f {{ site.scholar.bibliography }} -q @*[pmid=36854608]* %}
@@ -56,27 +56,27 @@ to apply this approach to characterize RNA repair events during stress condition
 
 ### tRNA splicing
 
-We [recently generated](https://pubmed.ncbi.nlm.nih.gov/29212664/) budding
-yeast cells that lack normally essential compo-nents of RNA repair. RNA
-ligase enzymes catalyze rejoining of RNA after cleavage of phosphodiester
-linkag-es. RNA ligation in budding yeast is catalyzed by two separate
-enzymes that ligate exons of tRNA during splicing and HAC1 mRNA during
-activation of the unfolded protein response.  The yeast RNA ligase Trl1
-joins 2',3'-cyclic phosphate and 5'-OH RNA fragments 32, yielding a
-phosphodiester linkage with a 2'-phosphate that is subsequently removed by
-the 2'-phosphotransferase Tpt1. Inspired by previous work in *C. elegans*,
-we rescued the lethality of *TRL1* and *TPT1* deletions in budding yeast by
-expressing intron-less versions of the 10 normally intron-containing
-tRNAs, indicating this repair pathway does not have additional essential
-functions. These cells are critical reagents that have opened the door to
-new studies of eukaryotic RNA repair. We are currently expanding this approach
-to study the breadth of RNA repair across evolution.
+We [recently generated](https://pubmed.ncbi.nlm.nih.gov/29212664/) budding yeast
+cells that lack normally essential compo-nents of RNA repair. RNA ligase enzymes
+catalyze rejoining of RNA after cleavage of phosphodiester linkag-es. RNA
+ligation in budding yeast is catalyzed by two separate enzymes that ligate exons
+of tRNA during splicing and HAC1 mRNA during activation of the unfolded protein
+response. The yeast RNA ligase Trl1 joins 2',3'-cyclic phosphate and 5'-OH RNA
+fragments 32, yielding a phosphodiester linkage with a 2'-phosphate that is
+subsequently removed by the 2'-phosphotransferase Tpt1. Inspired by previous
+work in *C. elegans*, we rescued the lethality of *TRL1* and *TPT1* deletions in
+budding yeast by expressing intron-less versions of the 10 normally
+intron-containing tRNAs, indicating this repair pathway does not have additional
+essential functions. These cells are critical reagents that have opened the door
+to new studies of eukaryotic RNA repair. We are currently expanding this
+approach to study the breadth of RNA repair across evolution.
 
-It is noteworty that this approach was unable to bypass the essentialty of the 
-TSEN tRNA splicing complex, resonating with [earlier work](https://pubmed.ncbi.nlm.nih.gov/22391451/) from the Hopper lab. We
-are using the genetic bypass strategy to identify other essential functions of TSEN,
-which may shed light on its role in the human neurodegenerative disease pontocerebellar
-hypoplasia.
+It is noteworthy that this approach was unable to bypass the essentialty of the
+TSEN tRNA splicing complex, resonating with [earlier
+work](https://pubmed.ncbi.nlm.nih.gov/22391451/) from the Hopper lab. We are
+using the genetic bypass strategy to identify other essential functions of TSEN,
+which may shed light on its role in the human neurodegenerative disease
+Pontocerebellar hypoplasia.
 
 <div class="publications">
   {% bibliography -f {{ site.scholar.bibliography }} -q @*[pmid=29212664]* %}
@@ -92,11 +92,11 @@ capacity.  In the budding yeast UPR, Ire1 excises an intron from the HAC1
 mRNA and the exon products of cleavage are ligated by Trl1, yielding an
 mRNA encoding a transcription factor whose translation induces hundreds of
 stress-response genes.  Moreover, robust base-pairing between the 5'-exon
-and intron inhibits HAC1 translation Using cells with muta-tions in RNA
+and intron inhibits HAC1 translation Using cells with mutations in RNA
 repair and decay enzymes, we showed that kinase-mediated decay of HAC1
 splicing intermedi-ates both suppresses and activates the UPR. Together
 with recent studies our findings support a new paradigm in cell signaling:
-analogous to kinase-mediated signal transduction through pro-tein
+analogous to kinase-mediated signal transduction through protein
 substrates, the UPR is controlled by kinase-mediated signal transduction
 through RNA substrates. These studies provide a strong conceptual
 foundation for understanding new couplings between RNA damage and repair.
