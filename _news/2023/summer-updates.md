@@ -4,6 +4,7 @@ date: 2023-07-09
 inline: true
 ---
 
+- Welcome to Christina Akirtava, PhD, who joined the RBI Informatics Fellows, and a new PRA, Kelly McEntee.
 - Ira Fleming was appointed to the Molecular Biology T32 grant.
 - Jay was promoted to Professor of Biochemistry and Molecular Genetics.
 - Welcome to three new students Ira Fleming (MSTP > MOLB), Ashlyn Stahly, (MSTP > MOLB), and Jill Bilodeaux (MICB), a new PRA (Kezia Dobson), and a summer intern (Samantha del Pozo from the [RBI summer internship](https://medschool.cuanschutz.edu/rbi/training-and-education/summer-internship-program/about)).
