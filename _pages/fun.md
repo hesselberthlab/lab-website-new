@@ -7,6 +7,14 @@ nav: true
 nav_order: 6
 ---
 
+### Mr. Hustleberth
+
+<div class="d-grid gap-3">
+  <img src="/assets/img/mr-hustle.jpg" class="rounded float-start" width="300">
+</div>
+
+<br/>
+
 ### Travel posters for subcellular locations
 
 *(courtesy of Dall-E & L. K. White)*
