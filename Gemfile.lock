@@ -14,8 +14,9 @@ GEM
     addressable (2.8.6)
       public_suffix (>= 2.0.2, < 6.0)
     base64 (0.2.0)
-    bibtex-ruby (6.0.0)
+    bibtex-ruby (6.1.0)
       latex-decode (~> 0.0)
+      racc (~> 1.7)
     bigdecimal (3.1.5)
     citeproc (1.0.10)
       namae (~> 1.0)
@@ -49,8 +50,7 @@ GEM
     ffi (1.16.3)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
-    google-protobuf (3.25.1-arm64-darwin)
-    google-protobuf (3.25.1-x86_64-linux)
+    google-protobuf (3.25.2)
     html-pipeline (2.14.3)
       activesupport (>= 2)
       nokogiri (>= 1.4)
@@ -136,10 +136,11 @@ GEM
     mini_mime (1.1.5)
     mini_racer (0.8.0)
       libv8-node (~> 18.16.0.0)
-    minitest (5.20.0)
+    minitest (5.21.1)
     multi_xml (0.6.0)
     mutex_m (0.2.0)
-    namae (1.1.1)
+    namae (1.2.0)
+      racc (~> 1.7)
     nokogiri (1.16.0-arm64-darwin)
       racc (~> 1.4)
     nokogiri (1.16.0-x86_64-linux)
@@ -155,9 +156,9 @@ GEM
     rouge (4.2.0)
     ruby2_keywords (0.0.5)
     safe_yaml (1.0.5)
-    sass-embedded (1.69.6-arm64-darwin)
+    sass-embedded (1.69.7-arm64-darwin)
       google-protobuf (~> 3.25)
-    sass-embedded (1.69.6-x86_64-linux-gnu)
+    sass-embedded (1.69.7-x86_64-linux-gnu)
       google-protobuf (~> 3.25)
     sax-machine (1.3.2)
     terminal-table (3.0.2)
@@ -173,6 +174,7 @@ GEM
 PLATFORMS
   arm64-darwin-21
   arm64-darwin-22
+  arm64-darwin-23
   x86_64-linux
 
 DEPENDENCIES
@@ -198,4 +200,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.4.13
+   2.5.4
