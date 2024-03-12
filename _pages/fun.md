@@ -7,7 +7,19 @@ nav: true
 nav_order: 6
 ---
 
-### Mr. Hustleberth
+## Data club
+
+*courtesy of Maggie Balas*
+
+<div class="d-grid gap-3">
+  <img src="/assets/img/data-club/data-club-1.jpg" class="rounded float-start" width="300">
+  <img src="/assets/img/data-club/data-club-2.jpg" class="rounded float-start" width="300">
+  <img src="/assets/img/data-club/data-club-3.jpg" class="rounded float-start" width="300">
+</div>
+
+<br/>
+
+## Mr. Hustleberth
 
 <div class="d-grid gap-3">
   <img src="/assets/img/mr-hustle.jpg" class="rounded float-start" width="300">
@@ -15,7 +27,7 @@ nav_order: 6
 
 <br/>
 
-### Travel posters for subcellular locations
+## Travel posters for subcellular locations
 
 *(courtesy of Dall-E & L. K. White)*
 
