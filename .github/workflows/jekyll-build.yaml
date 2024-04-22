@@ -21,7 +21,7 @@ jobs:
           bundler-cache: true
 
       - name: 🔨 install dependencies & build site
-        uses: jayhesselberth/jekyll-action-ts@v2
+        uses: jayhesselberth/jekyll-action-ts@v2.1
         with:
           enable_cache: true
           
