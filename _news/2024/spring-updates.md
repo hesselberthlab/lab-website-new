@@ -1,9 +1,10 @@
 ---
 layout: post
-date: 2024-02-27
+date: 2024-05-01
 inline: true
 ---
 
+- Welcome to Grace Li, an undergraduate researcher from UC Denver.
 - We were awarded an [NSF
   MFB](https://new.nsf.gov/news/nsf-nih-partner-new-research-develop-rna-based)
   grant with Laura White, Olivia Rissland, and Matt Taliaferro to study
