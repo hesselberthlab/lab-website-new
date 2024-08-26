@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2024-07-02
+date: 2024-08-26
 inline: true
 ---
+
+- Welcome to Emily DeCourt, a rotation student from the Molecular Biology program.
 
 - Welcome to Grace Li, an undergraduate researcher from UC Denver, and welcome
   back Sami del Pozo, RBI summer intern.
