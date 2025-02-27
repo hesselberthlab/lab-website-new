@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2024-08-26
+date: 2024-02-27
 inline: true
 ---
+
+- Welcome to Lane Anderson, a rotation student from the Molecular Biology program.
 
 - Welcome to Emily DeCurtis, a rotation student from the Molecular Biology program.
 
