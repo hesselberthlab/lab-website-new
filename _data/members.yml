@@ -4,7 +4,7 @@
   altimage:
   position: >
     Professor of [Biochemistry and Molecular Genetics](https://medschool.cuanschutz.edu/biochemistry){:target="_blank"} <br/>
-    Co-Director of the [RNA Bioscience Initiative](https://medschool.cuanschutz.edu/rbi){:target="_blank"}
+    Director of the [RNA Bioscience Initiative](https://medschool.cuanschutz.edu/rbi){:target="_blank"}
   email: jay.hesselberth (at) cuanschutz.edu
   website:
   scholar: EnOmNEYAAAAJ
@@ -23,17 +23,6 @@
   twitter:
   description:
 
-- name: Maggie Balas
-  degrees: PhD
-  image: maggie.jpeg
-  altimage:
-  position: Research Scientist
-  email: maggie.balas (at) cuanschutz.edu
-  linkedin: maggie-balas
-  scholar:
-  twitter:
-  description:
-
 - name: Ryan Sheridan
   degrees: PhD
   image: ryan.png
@@ -43,7 +32,7 @@
   github: sheridar
   scholar: FNCSPtYAAAAJ
   twitter:
-  description: RBI Informatics Faculty
+  description: RBI Research Faculty
 
 - name: Laura White
   degrees: PhD
@@ -55,18 +44,7 @@
   linkedin: laurakwhite
   scholar:
   twitter:
-  description: RBI Informatics Fellow
-
-- name: Michael Kaufman
-  degrees: PhD
-  image: michael-kaufman.png
-  altimage:
-  position: Research Associate
-  email: michael.kaufman (at) cuanschutz.edu
-  github: MLKaufman
-  scholar: zIvvzS8AAAAJ
-  twitter:
-  description: RBI Informatics Fellow
+  description: RBI Research Scientist
 
 - name: Jill Bilodeaux
   degrees:
@@ -88,7 +66,18 @@
   linkedin: ira-fleming-40b508b0
   scholar:
   twitter:
-  description: Molecular Biology NIGMS T32 appointee (2023/24)
+  description: NIGMS T32 (2023-24), NIAID F30 (2025-2027)
+
+- name: Emily DeCurtis
+  degrees:
+  image: emily.jpeg
+  altimage:
+  position: Graduate Student (MOLB)
+  email: emily.decurtis (at) cuanschutz.edu
+  linkedin: emily-decurtis-631053315
+  scholar:
+  twitter:
+  description:
 
 - name: Kezia Dobson
   degrees:
@@ -97,6 +86,17 @@
   position: Professional Research Assistant
   email: kezia.dobson (at) cuanschutz.edu
   linkedin: kezia-dobson-04436b25b
+  scholar:
+  twitter:
+  description:
+
+- name: Grace Li
+  degrees:
+  image: grace.jpeg
+  altimage:
+  position: Professional Research Assistant
+  email: grace.2..li (at) cuanschutz.edu
+  linkedin: grace-li-8b0927296
   scholar:
   twitter:
   description:

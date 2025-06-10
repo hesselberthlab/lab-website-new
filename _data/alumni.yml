@@ -1,41 +1,64 @@
-- name: Kent Riemondy 
+- name: Michael Kaufman
+  degrees: PhD
+  image: michael-kaufman.png
+  altimage:
+  position: Research Associate
+  email: michael.kaufman (at) cuanschutz.edu
+  github: MLKaufman
+  scholar: zIvvzS8AAAAJ
+  twitter:
+  previously: RBI Informatics Fellow
+  now: Senior Research Scientist, CU Anschutz Biomedical Informatics
+
+- name: Maggie Balas
+  degrees: PhD
+  image: maggie.jpeg
+  email: maggie.balas (at) cuanschutz.edu
+  linkedin: maggie-balas
+  scholar:
+  twitter:
+  description:
+  previously: Research Scientist
+  now: Research Scientist, Jason Klein laboratory
+
+- name: Kent Riemondy
   degrees: PhD
   image: kent.png
   altimage:
   position: Senior Instructor
   email: kent.riemondy (at) cuanschutz.edu
   github: kriemo
-  scholar: 
-  twitter: 
+  scholar:
+  twitter:
   previously: Faculty lead of the [RNA Bioscience Initiative Informatics Fellows](https://medschool.cuanschutz.edu/rbi/training-and-education/informatics-fellows-program){:target="_blank"}
   now: Director of Bioinformatics, RefinedScience
 
 - name: Catherine Nicholas
-  degrees: 
+  degrees:
   image: catherine.png
   altimage:
   position: Graduate Student (BSP > MOLB), joint with [Mia Smith, PhD](https://medschool.cuanschutz.edu/barbara-davis-center-for-diabetes/about/faculty/mia-smith){:target="_blank"}
   email: catherine.nicholas (at) cuanschutz.edu
   linkedin: canicholas
-  scholar: 
-  twitter: 
+  scholar:
+  twitter:
   previously: Graduate student, NIH / NIDDK F31 fellowship
-  
+
 - name: Aspen Martin
   image: aspen.jpeg
-  previously: Professional Research Assistant 
+  previously: Professional Research Assistant
   now: Scientist at [Foresight Diagnostics](https://foresight-dx.com/)
   linkedin: aspenmartin
- 
+
 - name: Saylor Strugar
-  degrees: 
+  degrees:
   image: saylor.jpeg
   altimage:
-  previously: Professional Research Assistant 
+  previously: Professional Research Assistant
   now: Graduate student, [University of Wisconsin IPIB](https://ipib.wisc.edu/)
   linkedin: saylor-strugar-4985061b6
-  scholar: 
-  twitter: 
+  scholar:
+  twitter:
   description:
 
 - name: Tyler Matheny
@@ -46,10 +69,10 @@
   email: tyler.matheny (at) cuanschutz.edu
   linkedin: tyler-matheny-phd
   scholar: jVl4k08AAAAJ
-  twitter: 
-  previously: RBI Informatics Fellow 
-  now: Subject Matter Expert at SOPHiA GENETICS 
- 
+  twitter:
+  previously: RBI Informatics Fellow
+  now: Subject Matter Expert at SOPHiA GENETICS
+
 - name: Kristen Wells
   degrees: PhD
   image: kristen.jpeg
@@ -57,8 +80,8 @@
   position: Research Associate
   email: kristen.wells-wrasman (at) cuanschutz.edu
   github: kwells4
-  scholar: 
-  twitter: 
+  scholar:
+  twitter:
   previously: RBI Informatics Fellow (joint with the [Barbara Davis Center for Diabetes](https://medschool.cuanschutz.edu/barbara-davis-center-for-diabetes){:target="_blank"})
   now: Instructor, [Barbara Davis Center for Diabetes](https://medschool.cuanschutz.edu/barbara-davis-center-for-diabetes){:target="_blank"}
 
@@ -76,10 +99,10 @@
   previously: RBI Informatics Fellow (joint with [Section of Developmental Biology](https://medschool.cuanschutz.edu/pediatrics/sections/developmental-biology/faculty){:target="_blank"})
   now: Bridge Informatics
   github: oligomyeggo
- 
+
 - name: Rui Fu
   degrees: PhD
-  previously: RBI Informatics Fellow 
+  previously: RBI Informatics Fellow
   now: Bioinformatics Scientist, New York Genome Center
   github: raysinensis
   scholar: 5K4soB0AAAAJ
@@ -87,51 +110,51 @@
 - name: Rachel Ancar
   degrees: PhD
   previously: Graduate Student (MSTP, MOLB)
-  now: Resident, Massachusetts General Hospital 
+  now: Resident, Massachusetts General Hospital
   email:
   website:
-  
+
 - name: Patrick Cherry
   degrees: PhD
   previously: Graduate Student (MOLB)
   now: Scientist, Twist Bioscience
   email:
   linkedin: p-cherry
-  
+
 - name: Sally Peach
   degrees: MD, PhD
   previously: Graduate Student (MSTP, MOLB)
-  now: Pediatrics Resident, Seattle Children's Hospital 
+  now: Pediatrics Resident, Seattle Children's Hospital
   email:
   linkedin: sallypeach
 
 - name: Suzi Bryan
   degrees: PhD
   previously: Graduate Student (BSP, MOLB)
-  now: Scientist, Illumina 
+  now: Scientist, Illumina
   email:
   linkedin: suzibryan
-  
+
 - name: Shannon Walsh
   degrees: PhD
   previously: Postdoctoral Fellow
-  now: Assistant Professor, Michigan State 
+  now: Assistant Professor, Michigan State
   email:
-  website: https://bmb.natsci.msu.edu/teaching-faculty/shannon-walsh/ 
-  
+  website: https://bmb.natsci.msu.edu/teaching-faculty/shannon-walsh/
+
 - name: Monica Ransom
   degrees: PhD
   previously: Postdoctoral Fellow
   now: Instructor, Craig Jordan Lab
   email:
-  website: https://medschool.cuanschutz.edu/hematology/research/jordan-lab/members 
+  website: https://medschool.cuanschutz.edu/hematology/research/jordan-lab/members
 
 - name: Austin Gillen
   degrees: PhD
   previously: Postdoctoral Fellow
   now: Assistant Research Professor, Hematology, CU Anschutz
   email:
-  website: https://som.cuanschutz.edu/Profiles/Faculty/Profile/25627 
+  website: https://som.cuanschutz.edu/Profiles/Faculty/Profile/25627
 
 - name: Stephen Garrey
   degrees: PhD
@@ -141,45 +164,43 @@
   website:
 
 - name: Sidhant Puntambekar
-  degrees: 
+  degrees:
   previously: RBISIP summer intern
   now:
   email:
   linkedin: sidhant-puntambekar
 
 - name: Haven Himmighoefer
-  degrees: 
-  previously: Undergraduate researcher 
+  degrees:
+  previously: Undergraduate researcher
   now:
   linkedin: haven-himmighoefer
   website:
 
 - name: Lakotah Hardie
-  degrees: 
+  degrees:
   previously:
   now:
   email:
   scholar: https://scholar.google.com/citations?user=xjtlmWcAAAAJ&hl=en
 
 - name: Leslie Aranda
-  degrees: 
+  degrees:
   previously: GEMS summer intern
   now:
   email:
   website:
 
 - name: Monty Prekeris
-  degrees: 
+  degrees:
   previously: PRA
   now:
   email:
   linkedin: prekeris
 
 - name: Kerri York
-  degrees: 
+  degrees:
   previously: PRA
   now:
   email:
   linkedin: kerriyork
-
-
