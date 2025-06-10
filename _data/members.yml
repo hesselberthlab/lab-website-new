@@ -83,7 +83,7 @@
   degrees:
   image: kezia.jpeg
   altimage:
-  position: Professional Research Assistant
+  position: Research Services Professional
   email: kezia.dobson (at) cuanschutz.edu
   linkedin: kezia-dobson-04436b25b
   scholar:
@@ -94,9 +94,20 @@
   degrees:
   image: grace.jpeg
   altimage:
-  position: Professional Research Assistant
+  position: Research Services Professional
   email: grace.2..li (at) cuanschutz.edu
   linkedin: grace-li-8b0927296
+  scholar:
+  twitter:
+  description:
+
+- name: Kelleen McEntee
+  degrees:
+  image: kelly.jpeg
+  altimage:
+  position: Research Services Professional, joint with [Suja Jagannathan, PhD](https://www.jagannathan-lab.org/people/)
+  email: kelleen.mcentee (at) cuanschutz.edu
+  linkedin: kelleen-mcentee
   scholar:
   twitter:
   description:
